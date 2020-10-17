@@ -8,8 +8,8 @@
 
   [![xiaoxian521's github stats](https://github-readme-stats.vercel.app/api?username=xiaoxian521&theme=radical)](https://github.com/xiaoxian521)
 
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xiaoxian521&repo=AndRatingBar&theme=radical)](https://github.com/xiaoxian521/vue-node-sqlite3)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xiaoxian521&repo=vue-node-sqlite3&theme=radical)](https://github.com/xiaoxian521/vue-node-sqlite3)
 
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xiaoxian521&repo=RvParallaxImageView&theme=radical)](https://github.com/xiaoxian521/H265-JavaScript)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xiaoxian521&repo=H265-JavaScript&theme=radical)](https://github.com/xiaoxian521/H265-JavaScript)
 
 
