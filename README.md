@@ -4,7 +4,7 @@
 
 - ## Some of my Github Stats
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoxian521&layout=compact)](https://github.com/xiaoxian521/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoxian521&layout=compact&theme=radical)](https://github.com/xiaoxian521/github-readme-stats)
 
   [![xiaoxian521's github stats](https://github-readme-stats.vercel.app/api?username=xiaoxian521&theme=radical)](https://github.com/xiaoxian521)
 
