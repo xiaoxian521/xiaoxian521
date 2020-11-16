@@ -8,6 +8,8 @@
 
   [![xiaoxian521's github stats](https://github-readme-stats.vercel.app/api?username=xiaoxian521&theme=radical)](https://github.com/xiaoxian521)
 
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xiaoxian521&repo=CURD-TS&theme=radical)](https://github.com/xiaoxian521/CURD-TS)
+
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xiaoxian521&repo=vue-node-sqlite3&theme=radical)](https://github.com/xiaoxian521/vue-node-sqlite3)
   
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xiaoxian521&repo=private-cli&theme=radical)](https://github.com/xiaoxian521/private-cli)
