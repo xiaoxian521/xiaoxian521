@@ -12,6 +12,6 @@
   
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xiaoxian521&repo=private-cli&theme=radical)](https://github.com/xiaoxian521/private-cli)
   
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sourceTreeTeam&repo=CURD-TS&theme=radical)](https://github.com/sourceTreeTeam/CURD-TS)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xiaoxian521&repo=CURD-TS&theme=radical)](https://github.com/xiaoxian521/CURD-TS)
 
 
